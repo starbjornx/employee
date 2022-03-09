@@ -28,7 +28,9 @@ by typing node index in the correct terminal you will get an output return of qu
 
 You may reach out to [Kyle Henriksen](https://github.com/starbjornx)
 
-[GitHub User](https://github.com/starbjornx)
+Project : [Employee Card Creation](https://github.com/starbjornx/employee#installation)
+
+URL : [Employee Card Website](https://starbjornx.github.io/employee/)
 
 # Class room Requirements
 
@@ -208,4 +210,5 @@ You are required to submit the following for review:
 - The URL of the GitHub repository, with a unique name and a readme describing the project.
 
 ---
+
 # employee
